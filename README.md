@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi everyone 👋
 
 - 🔭 I’m currently studying.
 - 🌱 I’m currently learning lynux and python.
 - 👯 I’m looking to collaborate on supporters and learners.
 - 🤔 I’m looking for help with the things what i know
-- 💬 Ask me about learning process.
+- 💬 Ask me about learning my process.
 - 📫 you can reach me by mail.
-- 😄 you can call DGP
+- 😄 you can call me DGP
