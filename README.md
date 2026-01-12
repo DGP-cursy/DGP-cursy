@@ -7,4 +7,3 @@
 - 💬 Ask me about learning process.
 - 📫 you can reach me by mail.
 - 😄 you can call DGP
-- 
